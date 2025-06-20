@@ -11,7 +11,7 @@ gcc -std=c99 -pedantic -o e002 eth002.c
 
 ## Usage
 
-In the following replace <port>, <password> and <ip> with the port number, password, and IP address of your module.
+In the following replace `<port>`, `<password>` and `<ip>` with the port number, password, and IP address of your module.
 
 Toggle relay number 1.
 ```
